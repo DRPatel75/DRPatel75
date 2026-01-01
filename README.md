@@ -41,11 +41,10 @@ I'm **Divy Patel**
 
 ---
 
-## 🔥 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DRPatel75&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRPatel75&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
