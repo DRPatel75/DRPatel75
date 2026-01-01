@@ -41,9 +41,16 @@ I'm **Divy Patel**
 
 ---
 
+## 🔥 My Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRPatel75&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=punit1703&show_icons=true&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punit1703&theme=tokyonight"/>
+</p>
+
 
 
 
