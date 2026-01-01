@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/coding.gif" width="180" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" />
 </p>
 
 <h1 align="center">hey there 👋</h1>
