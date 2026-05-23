@@ -6,7 +6,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%26+MySQL;Web+Development;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Developer;PHP+%26+MySQL;Web+Development;Learning+Machine+Learning" />
 </p>
 
 ---
