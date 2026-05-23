@@ -6,7 +6,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Developer;PHP+%26+MySQL;Web+Development;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AE6B4&center=true&vCenter=true&width=600&lines=Developer;Web+Development;Learning+Machine+Learning" />
 </p>
 
 ---
@@ -15,12 +15,12 @@
 
 I'm **Divy Patel**
 
-- 🔭 Currently working on **Machine Learning** and **Backend Web Development**
-- 👯 Open to collaborating on **AI/ML and Backend projects**
+- 🔭 Currently working on **Machine Learning** and **Web Development**
+- 👯 Open to collaborating on **AI/ML and Web Development projects**
 - 🎯 Seeking mentorship in **advanced ML and scalable web systems**
 - 🌱 Learning **ML algorithms, model deployment, Django & Flask**
 - 🎓 Pursuing **Bachelor’s in Computer Engineering**
-- 💬 Ask me about **PHP, Python, ML, APIs, Backend Development**
+- 💬 Ask me about **Python, ML, APIs, Web Development, MERN Stack**
 - ⚡ Fun fact: I love turning complex ideas into real-world tech solutions
 
 ---
